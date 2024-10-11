@@ -18,8 +18,8 @@ The News Email Notification Script is a Python application that retrieves the la
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/armanulhaq/news-email-news-api.git
-   cd news-email-notification
+   git clone https://github.com/armanulhaq/email-news-api.git
+   cd email-news-api
 ```  
 2. Create a virtual environment:
 ```bash
